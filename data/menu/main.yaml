@@ -1,0 +1,10 @@
+---
+main:
+  - name: Philosophie
+    ref: "philosophie/"
+  - name: Leistungen
+    ref: "leistungen/"
+  - name: Team
+    ref: "team/"
+  - name: Kontakt
+    ref: "kontakt/"
