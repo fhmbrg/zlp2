@@ -8,10 +8,10 @@ ZL-Physio\
 Mühlenstraße 2e\
 52382 Niederzier
 
-☎️  02428 / 9 058 509\
-📠 02428 / 9 058 508
+{{< icon "phone" >}} 02428 / 9 058 509\
+{{< icon "fax" >}} 02428 / 9 058 508
 
-📧  [info@zl-physio.de](mailto:info@zl-physio.de)
+{{< icon "envelope" >}} [info@zl-physio.de](mailto:info@zl-physio.de)
 
 ## Angaben nach § 5 des Telemediengesetz (TMG)
 

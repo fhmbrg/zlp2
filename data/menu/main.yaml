@@ -1,10 +1,14 @@
 ---
 main:
   - name: Philosophie
+    icon: "spa"
     ref: "philosophie/"
   - name: Leistungen
+    icon: "hand-sparkles"
     ref: "leistungen/"
   - name: Team
+    icon: "people-group"
     ref: "team/"
   - name: Kontakt
+    icon: "address-book"
     ref: "kontakt/"

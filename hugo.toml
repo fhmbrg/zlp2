@@ -110,7 +110,7 @@ enableRobotsTXT = true
 
   # (Optional, default false) Auto-decrease brightness of images and add a slightly grayscale to avoid
   # bright spots while using the dark mode.
-  geekdocDarkModeDim = false
+  geekdocDarkModeDim = true
 
   # (Optional, default false) Enforce code blocks to always use the dark color theme.
   geekdocDarkModeCode = false
