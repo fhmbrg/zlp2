@@ -12,3 +12,6 @@ main:
   - name: Kontakt
     icon: "address-book"
     ref: "kontakt/"
+  - name: Aktuelles
+    icon: "bell"
+    ref: "news/"
