@@ -17,4 +17,4 @@ Freitag von 08:00 bis 12:00 Uhr
 
 ## Termine
 
-Ihre **individuellen Termine** können Sie mit unseren [Mitarbeiter der Verwaltung](/zlp2/team/#verwaltung) abstimmen.
+Ihre **individuellen Termine** können Sie mit unseren [Mitarbeitern der Verwaltung](/zlp2/team/#verwaltung) abstimmen.
