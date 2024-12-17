@@ -9,7 +9,7 @@ main:
   - name: Team
     icon: "people-group"
     ref: "team/"
-  - name: Kontakt
+  - name: "Kontakt & Öffnungszeiten"
     icon: "address-book"
     ref: "kontakt/"
   - name: Aktuelles

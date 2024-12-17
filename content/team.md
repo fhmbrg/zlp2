@@ -6,11 +6,13 @@ draft: false
 ---
 
 {{< toc >}}
-## Zdobek Zajac
+## Therapeuten
+
+### Zdobek Zajac
 
 * Physiotherapeut Bc. (NL)
 
-## Michael Leroy
+### Michael Leroy
 
 * Physiotherapeut Bc. (NL)
 * Manualtherapeut M.Sc. (NL)
@@ -18,32 +20,34 @@ draft: false
 * Sportphysiotherapie
 * Dozent für Physiotherapie an der Hogeschool Zuyd in Heerlen
 
-## Jolante Zajac
+### Jolante Zajac
 
 * Physiotherapeutin Bc. (PL)
 * Bobath- Therapeutin Kinder und Erwachsene
 * Lymphdrainage
 
-## Kai Witzel
+### Kai Witzel
 
 * Physiotherapeut Bc (NL)
 * Sportphysiotherapie Master (D)
 * Lymphdrainage
 
-## Burak Dokuyucu
+### Burak Dokuyucu
 
 * Physiotherapeut Bc (NL)
 * Sportphysiotherapie Master (D)
 
-## Moritz Weyergraf
+### Moritz Weyergraf
 
 * Physiotherapeut Bc (NL)
 * Lymphdrainage
 
-## Sandra Popp
+## Verwaltung
+
+### Sandra Popp
 
 * Rezeption
 
-## Birgit Wolff
+### Birgit Wolff
 
 * Rezeption
