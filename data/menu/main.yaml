@@ -2,16 +2,16 @@
 main:
   - name: Philosophie
     icon: "spa"
-    ref: "philosophie/"
+    ref: "/philosophie/"
   - name: Leistungen
     icon: "hand-sparkles"
-    ref: "leistungen/"
+    ref: "/leistungen/"
   - name: Team
     icon: "people-group"
-    ref: "team/"
+    ref: "/team/"
   - name: "Kontakt & Öffnungszeiten"
     icon: "address-book"
-    ref: "kontakt/"
+    ref: "/kontakt/"
   - name: Aktuelles
     icon: "bell"
-    ref: "news/"
+    ref: "/news/"
