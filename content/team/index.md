@@ -23,7 +23,7 @@ draft: false
 ### Jolante Zajac
 
 * Physiotherapeutin Bc. (PL)
-* Bobath- Therapeutin Kinder und Erwachsene
+* Bobath-Therapeutin Kinder und Erwachsene
 * Lymphdrainage
 
 ### Kai Witzel
