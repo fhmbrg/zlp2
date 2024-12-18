@@ -1,5 +1,9 @@
 ---
 title: 'Team'
+resources:
+- name: burak
+  src: "images/burak.gif"
+  title: Burak Dokuyucu
 weight: 30
 tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportphysiotherapeut", "Verwaltung"]
 draft: false
@@ -33,6 +37,8 @@ draft: false
 * Lymphdrainage
 
 ### Burak Dokuyucu
+
+{{< img name="burak" size="origin" >}}
 
 * Physiotherapeut Bc (NL)
 * Sportphysiotherapie Master (D)
