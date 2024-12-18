@@ -1,4 +1,5 @@
 ---
+title: 'Aktuelle Bekanntmachungen'
 tags: ["Wichtig", "Aktuelles", "Neuigkeiten", "Bekanntmachung"]
 ShowToc: false
 TocOpen: true
